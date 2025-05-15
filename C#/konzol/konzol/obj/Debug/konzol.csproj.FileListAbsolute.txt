@@ -1,0 +1,10 @@
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\bin\Debug\konzol.exe.config
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\bin\Debug\konzol.exe
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\bin\Debug\konzol.pdb
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\obj\Debug\konzol.csproj.AssemblyReference.cache
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\obj\Debug\konzol.csproj.CoreCompileInputs.cache
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\obj\Debug\konzol.csproj.Up2Date
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\obj\Debug\konzol.exe
+C:\Users\Kovacs.Zeteny.ZSolt\Desktop\Gyak\C#\konzol\konzol\obj\Debug\konzol.pdb
